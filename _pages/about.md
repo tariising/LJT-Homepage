@@ -17,11 +17,24 @@ My research focuses on natural language processing and machine learning, especia
 
 Before joining HKUST, I received my B.Eng. from Shanghai Jiao Tong University in 2024. I have also been fortunate to work as a research intern at MINIMAX, Tencent WXG, and Shanghai AI Lab.
 
-## Publications
+## About
 
-The full publication list is also available on the [Publications](/publications/) page. Selected publications are mirrored here so visitors can see them directly from the landing page.
+### Education
 
-### 2025
+- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present
+- **B.Eng.**, Shanghai Jiao Tong University, 2020–2024
+
+### Research Experience
+
+- **Research Intern**, MINIMAX, February 2025–Present
+- **Research Intern**, Tencent WXG, June 2024–September 2024
+- **Research Intern**, Shanghai AI Lab, June 2023–December 2023
+
+### Publications
+
+A complete publication list is maintained on the [Publications](/publications/) page. The major publications are also recorded in this about section for completeness.
+
+#### 2025
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
@@ -31,7 +44,7 @@ The full publication list is also available on the [Publications](/publications/
   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.  
   *arXiv*, 2025.
 
-### 2024
+#### 2024
 
 - **On the Universal Truthfulness Hyperplane Inside LLMs**  
   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He.  
@@ -41,7 +54,7 @@ The full publication list is also available on the [Publications](/publications/
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
   *ICML*, 2024.
 
-### 2023
+#### 2023
 
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.  
@@ -50,17 +63,6 @@ The full publication list is also available on the [Publications](/publications/
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**  
   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.  
   *NeurIPS*, 2023.
-
-## Education
-
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024–Present
-- **B.Eng.**, Shanghai Jiao Tong University, 2020–2024
-
-## Research Experience
-
-- **Research Intern**, MINIMAX, February 2025–Present
-- **Research Intern**, Tencent WXG, June 2024–September 2024
-- **Research Intern**, Shanghai AI Lab, June 2023–December 2023
 
 ## Contact
 
